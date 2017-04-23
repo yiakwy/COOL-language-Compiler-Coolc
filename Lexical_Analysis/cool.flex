@@ -1,5 +1,6 @@
 /*
  *  The scanner definition for COOL.
+ *  The codes template from stanford and Lei (yiak.wy@gmail) implements all the recognition with 100% tests passes. 
  */
 
 /*
